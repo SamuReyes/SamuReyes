@@ -1,8 +1,8 @@
+<h1 align="center">Hi! I'm Samuel Reyes 👋</h1>
+
 <p align="center">
   <img src="assets/user-profile.png" width="20%">
 </p>
-
-<h1 align="center">Samuel Reyes</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-reyes-sanz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
