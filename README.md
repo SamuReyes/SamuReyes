@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/user-profile.png" width="20%">
+</p>
+
 <h1 align="center">Samuel Reyes</h1>
 
 <p align="center">
@@ -7,12 +11,36 @@
 
 <p align="center">Computer Scientist & Machine Learning Engineer</p>
 
+<p>I am an organized and enthusiastic data scientist
+with a solid background in computer science,
+acquired during the early years of my academic
+journey. Currently, my goal is to grow as an AI
+expert, focusing on solving complex
+technological problems and applying state-of-
+the-art techniques.</p>
+<p>I am looking for opportunities within a company
+that specializes in solving technological
+challenges and is committed to innovation.</p>
+
 <br>
 
+## 📚 Education
+
+- **Master's degree in Machine Learning and Big Data** at *Universidad Politécnica de Madrid* - (2023-2024)
+- **Bachelor in Computer Science & Engineering** at *Universidad Carlos III de Madrid* - (2019-2023)
+
+<br>
+
+## 👨‍💻 Working Experience
+
+- **AI Research Assistant** at *Universidad Politécnica de Madrid* - (January 2024 - present)
+- **GNSS AI Engineer** at *GMV* - (February 2023-July 2023)
+- **Freelance web developer** - (2019-2022)
+
+<br>
 
 ## 🛠️ Technologies & Tools
 
-<!-- Icons from: https://simpleicons.org/ -->
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,16 +61,3 @@
 </p>
 
 <br>
-
-## 📚 Education
-
-- **Master's degree in Machine Learning and Big Data** at *Universidad Politécnica de Madrid* (2023-2024)
-- **Bachelor in Computer Science & Engineering** at *Universidad Carlos III de Madrid* (2019-2023)
-
-<br>
-
-## 👨‍💻 Working Experience
-
-- **AI Research Assistant** at *Universidad Politécnica de Madrid* (January 2024 - present)
-- **GNSS AI Engineer** at *GMV* (February 2023-July 2023)
-- **Freelance web developer** (2019-2022)
