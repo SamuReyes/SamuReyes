@@ -61,3 +61,12 @@ challenges and is committed to innovation.</p>
 </p>
 
 <br>
+
+## ❤️ Support My Work
+
+If you find my contributions helpful and are feeling generous, consider making a small donation to support my work. Any amount is greatly appreciated and helps me keep going!
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/samuelreyessanz" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal"></a>
+</p>
+
