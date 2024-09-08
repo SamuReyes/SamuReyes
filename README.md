@@ -33,7 +33,8 @@ challenges and is committed to innovation.</p>
 
 ## 👨‍💻 Working Experience
 
-- **AI Research Assistant** at *Universidad Politécnica de Madrid* - (January 2024 - present)
+- **Data Scientist** at *Instituto de Ingeniería del Conocimiento (IIC)* - (July 2024 - present)
+- **AI Research Assistant** at *Universidad Politécnica de Madrid* - (January 2024 - June 2024)
 - **GNSS AI Engineer** at *GMV* - (February 2023-July 2023)
 - **Freelance web developer** - (2019-2022)
 
